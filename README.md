@@ -4,8 +4,8 @@ Basic HTTP server with Express. Router separated serves static files.
 
 ** Installation
 
-npm install express
+npm install
 
 ** Run
 
-node server.js
+npm start
